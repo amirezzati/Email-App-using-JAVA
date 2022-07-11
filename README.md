@@ -7,7 +7,7 @@ This app is simulating Email app that is created by JAVA using Socket programmin
 This was my fifth project of Advanced Programming (in JAVA) at University of Guilan in Jul 2020.
 
 # Description
-1. You should first compile all java files that you can accomplish it by IDE or using CMD.   
+1. You should first compile all java files that you can accomplish it by IDE or using CMD. Also you can use the generated class in out folder.    
 2. Then you should first run Server file (server.class) and then run Client file (client.class).    
     
     
